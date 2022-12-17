@@ -13,5 +13,6 @@ A Scatter Graph is denoted for those separate variables before the prediction.
 Next step is to import the sklearn library for Linear Regression, by using train_test_split function we need to assign system how much it should get trained and how much it should take for testing and random state should also be denoted. 
 Next step is to create a dataframe for predicted data. Finally, need to save the file as csv.
 Thus, by using Jupyter Notebook we have analysed and predicted the values. 
+This work is done by N.S DEVADHARSINI, T.KATHAMBARI, S.RAKSHANA NOORA, B.ARAVIND.
 
    
